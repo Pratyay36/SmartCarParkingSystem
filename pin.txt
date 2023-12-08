@@ -1,0 +1,30 @@
+........................................
+arduino pin           sensor pin
+........................................
+2                     out  gate entry
+4                     out  gate exit
+
+5                     out  slot 1
+6                     out  slot 2
+7                     out  slot 3
+8                     out  slot 4
+9                     out  slot 5
+10                    out  slot 6
+
+
+.........................................
+arduino pin           servo pin
+.........................................
+3                       signal
+vcc                     5v
+gnd                     gnd
+
+
+
+.........................................
+arduino pin             display pin
+.........................................
+A5                        scl
+A4                        sda 
+vcc                       5v
+gnd                       gnd
